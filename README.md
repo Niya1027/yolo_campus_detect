@@ -1,0 +1,2 @@
+# yolo_campus_detect
+基于YOLO的校园安全目标识别模型训练与演示项目
