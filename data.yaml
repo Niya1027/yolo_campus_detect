@@ -1,9 +1,0 @@
-path: C:/Users/lenovo/Documents/trae_projects/yolo_campus_detect/dataset
-train: train/images
-val: val/images
-nc: 4
-names:
-  0: pedestrian
-  1: bike
-  2: climb_fence
-  3: sundries
