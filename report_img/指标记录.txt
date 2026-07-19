@@ -1,0 +1,11 @@
+YOLOv8校园检测模型训练指标
+1. 训练参数
+总轮次 epochs：200
+batch_size：（打开train-8/args.yaml查看batch数值）
+输入尺寸 imgsz：640
+数据集图片总数：（你标注时统计的图片总量）
+
+2. 模型精度
+Precision（精确率）：0.4134
+Recall（召回率）：0.47246
+mAP@0.5：0.20312

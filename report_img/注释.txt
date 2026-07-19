@@ -1,0 +1,5 @@
+results.png（整体损失 & 精度曲线）
+BoxF1_curve.png（F1 曲线）
+BoxPR_curve.png（PR 精度召回曲线）
+confusion_matrix.png（混淆矩阵）
+val_batch0_pred.jpg（验证集检测效果图）
