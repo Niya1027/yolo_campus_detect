@@ -39,7 +39,6 @@ yolo_campus_detect/
 ├─ demo_predict.py # 图片 / 视频 / 摄像头检测演示脚本
 ├─ train.py # 模型完整训练脚本
 └─ data.yaml # 数据集类别、路径配置文件
-```
 
 ## 训练核心参数
 - 训练轮次 epochs: 200
