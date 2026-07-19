@@ -1,0 +1,12 @@
+# 数据集根路径（相对路径，直接复制）
+path: ../dataset
+train: train/images
+val: val/images
+
+# 类别数量、对应名称（按你标注时的数字顺序）
+nc: 4
+names:
+  0: 安全帽
+  1: 禁止通行
+  2: 灭火器
+  3: 实验室危险
