@@ -39,6 +39,9 @@ yolo_campus_detect/
 　├─ train.py # 模型完整训练脚本
 　└─ data.yaml # 数据集类别、路径配置文件
 
+dataset 文件夹因图片数据体积过大，本仓库未上传，可自行使用
+MakeSense 工具制作校园场景标注数据集用于训练。
+
 ## 训练核心参数
 - 训练轮次 epochs: 200
 - 输入图像尺寸 imgsz: 640
