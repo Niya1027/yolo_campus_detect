@@ -36,7 +36,7 @@ yolo_campus_detect/
 │  └─ best.pt              # 200轮训练最优权重文件
 ├─ dataset/                # 校园标注数据集（train/val 图片 + 标签）
 ├─ runs/detect/train-8/
-│  └─ report_img/          # 实训报告专用图表、指标文档
+│  └─ report_img/        # 提取自训练缓存runs/detect/train-8，存放实训报告图表、指标曲线
 ├─ demo_predict.py         # 图片 / 视频 / 摄像头检测演示脚本
 ├─ train.py                # 模型完整训练脚本
 └─ data.yaml               # 数据集类别、路径配置文件
